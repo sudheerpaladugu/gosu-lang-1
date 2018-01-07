@@ -1,3 +1,5 @@
+Compolete repo - https://github.com/gosu-lang
+
 The Gosu Language
 =================
 
