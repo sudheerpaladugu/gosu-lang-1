@@ -1,4 +1,4 @@
-Compolete repo - https://github.com/gosu-lang
+Master repo - https://github.com/gosu-lang
 
 The Gosu Language
 =================
